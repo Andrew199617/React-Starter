@@ -1,0 +1,20 @@
+.footer {
+  width: 100%;
+  box-shadow: 0px 500px 0px 500px #000;
+  height: auto;
+  color: blue;
+  background: black;
+  color: white;
+  padding: 20px;
+}
+.body {
+  width: 100%;
+  min-height: 85%;
+}
+.header {
+  width: 100%;
+  min-height: 15%;
+  background: black;
+  color: white;
+  margin-top: -20px;
+}
